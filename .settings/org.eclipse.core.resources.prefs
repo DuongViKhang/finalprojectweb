@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/laptrinhweb/Controller/Admin/OrderController.java=UTF-8
+encoding//src/main/java/com/laptrinhweb/Controller/Admin/ProductController.java=UTF-8
+encoding//src/main/java/com/laptrinhweb/Controller/Customer/CartDetailController.java=UTF-8
+encoding//src/main/java/com/laptrinhweb/Controller/Customer/ProfileController.java=UTF-8
+encoding//src/main/java/com/laptrinhweb/Service/Implementation/ProductService.java=UTF-8
+encoding//src/main/java/com/laptrinhweb/Service/Implementation/UserDetailService.java=UTF-8
